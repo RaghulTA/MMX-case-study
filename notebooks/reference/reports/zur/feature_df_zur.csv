@@ -1,0 +1,14 @@
+feature names,feature coefficients
+m_google_n_imp_alpha0_beta0,0.6519584340474002
+m_fb_n_imp_adstk_alpha1_beta0,0.0
+m_trade_desk_l_clk_adstk_alpha0_beta1,2.963789779363147
+m_youtube_n_clk_adstk_alpha0_beta0,0.33216537521777906
+ec_tbill_3m,0.0
+gqv_n_actra_gix,3.497442357257032
+ec_is_bull,0.11271514653035912
+m_linkedin_l_clk_alpha1_beta0,0.42449319135169344
+web_new_customer_logins,1.0506440038338813
+s_index_weekly,5.773905891565231
+ec_psavert,0.0
+trend,1.0363005462898291
+Intercept,724.1772540781145

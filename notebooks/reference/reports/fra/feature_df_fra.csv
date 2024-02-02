@@ -1,0 +1,13 @@
+feature names,feature coefficients
+m_youtube_n_clk,0.14011182367885394
+m_fb_n_clk,0.0
+m_linkedin_l_clk_alpha0_beta0,0.7118718704104543
+m_google_n_clk_alpha1_beta0,1.0698275559632173
+m_trade_desk_l_clk_alpha1_beta0,4.647040021355557
+branch_prospect_visits,0.7771773406782634
+web_new_customer_logins,2.469795821564694
+ec_tbill_3m,1.1527267545023123
+branch_employee_count,1.790482060964871
+ec_psavert,2.7791684433127513
+ec_is_bull,0.5651634966191863
+Intercept,-101.07881411256687

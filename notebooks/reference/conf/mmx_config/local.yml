@@ -1,0 +1,4 @@
+attribution_config: ${core.mmx_config_base_path}/attrib.csv
+prior_config: ${core.mmx_config_base_path}/priors_config.csv
+quarterly_spend_config: ${core.mmx_config_base_path}/quarterly_spend.csv
+spend_activity_config: ${core.mmx_config_base_path}/sp_vs_act.csv

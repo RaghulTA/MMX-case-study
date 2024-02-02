@@ -1,0 +1,14 @@
+feature names,feature coefficients
+m_youtube_n_clk,0.06814602833705562
+m_linkedin_l_clk_adstk,0.025994125051033372
+m_google_n_clk_alpha1_beta0,1.6471268563200614
+m_trade_desk_l_clk_alpha1_beta1,0.4146611903913675
+branch_prospect_visits,1.1693941471404328
+web_new_customer_logins,0.3898421516061676
+ec_psavert,0.21998564280833083
+m_fb_n_imp,0.8089664925899982
+gqv_n_actra_gix,2.1194360159261585
+s_index_weekly,1.4977504217791582
+trend,0.7855357435997737
+cust_sat_score,0.008461243275002882
+Intercept,637.341851489563

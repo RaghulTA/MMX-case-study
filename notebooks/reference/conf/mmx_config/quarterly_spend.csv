@@ -1,0 +1,7 @@
+﻿variable_name,variable_description,aggregation_type
+m_fb_n_sp,facebook ads,Mean
+m_bing_l_sp,bing ads,Mean
+m_google_n_sp,google search,Mean
+m_youtube_n_sp,youtube ads,Mean
+m_trade_desk_l_sp,trade_desk ads,Mean
+m_linkedin_l_sp,linkedin ads,Mean

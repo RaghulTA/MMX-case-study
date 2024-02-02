@@ -1,0 +1,13 @@
+feature names,feature coefficients
+m_trade_desk_l_clk,51.74979036096714
+m_linkedin_l_clk,9.318146651577447
+m_bing_l_imp_adstk,31.62151218279875
+m_google_n_imp_adstk,61.10259743416917
+m_youtube_n_imp_adstk,7.5591120690295694
+ec_psavert,16.22474907234676
+web_new_customer_logins,1.8470174601829648
+gqv_n_actra_gix,97.26340252967094
+s_index_weekly,18.74251626089436
+trend,74.95190587704842
+ec_is_bull,23.008678924876275
+Intercept,5492.62608160036

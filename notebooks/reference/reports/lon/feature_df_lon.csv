@@ -1,0 +1,15 @@
+feature names,feature coefficients
+m_linkedin_l_clk,2.2177452773448723
+m_fb_n_imp_adstk,2.5593755531588225
+m_bing_l_imp_adstk,5.887344319616879
+m_google_n_clk_alpha0_beta0,1.9178175949200715
+m_youtube_n_clk_alpha0_beta0,0.25604022883896244
+m_trade_desk_l_clk_adstk_alpha1_beta1,5.007939431285266
+ec_tbill_3m,0.2880162914465077
+web_new_customer_logins,2.176723064669365
+s_index_weekly,7.088334850473167
+ec_psavert,1.1176251853472459
+branch_prospect_visits,1.6436364821981992
+branch_employee_count,1.3980076734053413
+trend,0.46756120554077035
+Intercept,1911.178062515673

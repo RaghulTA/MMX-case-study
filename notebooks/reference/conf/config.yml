@@ -1,0 +1,4 @@
+core: default
+logging: notebook
+data_catalog: local
+mmx_config: local

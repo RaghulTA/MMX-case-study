@@ -1,0 +1,24 @@
+feature names,feature coefficients
+m_fb_n_imp,1.708311452934983
+m_google_n_clk,0.14805951847428947
+m_google_n_imp,1.3229556038355084
+m_youtube_n_clk,0.26068586473698485
+m_trade_desk_l_clk,0.368569116182131
+m_linkedin_l_clk,0.1743919569348225
+m_fb_n_imp_adstk,0.3441306770255116
+m_google_n_clk_adstk,2.2696630620313085
+m_youtube_n_clk_adstk,0.2744868855316303
+m_google_n_clk_alpha0_beta0,0.1437947705655019
+m_trade_desk_l_clk_alpha0_beta0,0.36749512879427576
+m_linkedin_l_imp_alpha0_beta1,0.4329319038805553
+m_google_n_clk_alpha1_beta0,0.14379477056550297
+m_trade_desk_l_clk_alpha1_beta0,0.3674951287942781
+m_linkedin_l_clk_alpha1_beta0,0.17551105874324888
+m_trade_desk_l_clk_alpha1_beta1,0.34843775720378956
+m_linkedin_l_imp_alpha1_beta1,0.43293190388055625
+ec_tbill_3m,0.3575380320283296
+web_new_customer_logins,0.3203458898405625
+gqv_n_retire_gix,3.96667081406916
+ec_psavert,2.590738412674961
+trend,2.0647068892623457
+Intercept,307.53030838653876

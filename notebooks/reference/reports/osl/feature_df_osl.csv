@@ -1,0 +1,7 @@
+feature names,feature coefficients
+m_google_n_clk,3.0883818541238095
+m_linkedin_l_clk_adstk,2.2466664760765735
+m_trade_desk_l_imp_alpha0_beta1,0.5966004489460058
+m_youtube_n_clk_alpha1_beta1,1.6646278656834128
+gqv_n_retire_gix,5.653832572301578
+Intercept,892.5139315285763

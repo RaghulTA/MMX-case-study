@@ -1,0 +1,9 @@
+feature names,feature coefficients
+m_bing_l_imp,5.801709620073285
+m_bing_l_clk_alpha0_beta0,0.40182288529696064
+m_google_n_clk_alpha0_beta0,5.884948948636609
+m_trade_desk_l_clk_alpha1_beta0,1.378132115638497
+trend,5.832426256669495
+gqv_n_actra_gix,7.62123219432129
+web_new_customer_logins,1.4983798270196207
+Intercept,1782.7919592430046

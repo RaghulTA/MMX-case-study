@@ -1,0 +1,15 @@
+feature names,feature coefficients
+m_fb_n_imp,0.7937279385580028
+m_google_n_imp,0.7035044589674166
+s_index_weekly,1.9331735136863264
+m_linkedin_l_clk,0.32269495394366404
+m_youtube_n_clk_alpha0_beta1,0.2904963276652763
+trend,0.44079712892624806
+m_google_n_clk_alpha1_beta0,0.6947215074657203
+m_trade_desk_l_clk_alpha1_beta1,0.9882872488595823
+m_linkedin_l_clk_alpha1_beta1,0.3246202953013194
+branch_prospect_visits,0.8989462835873755
+gqv_n_actra_gix,1.9161830761318848
+ec_psavert,0.1327124079535924
+ec_is_bull,0.3134973814597239
+Intercept,773.0717143737892

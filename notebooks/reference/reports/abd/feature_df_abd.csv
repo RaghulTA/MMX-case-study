@@ -1,0 +1,16 @@
+feature names,feature coefficients
+m_google_n_imp,2.114042409718315
+m_trade_desk_l_clk,0.7365096720241137
+m_google_n_clk_alpha0_beta0,1.1255059683094912
+m_trade_desk_l_clk_alpha0_beta0,0.7364784899817156
+m_fb_n_clk_alpha0_beta1,0.0
+m_youtube_n_clk_alpha0_beta1,1.276052339550067
+m_linkedin_l_clk_alpha0_beta1,0.13083562693554524
+m_trade_desk_l_clk_alpha1_beta0,0.7364784899817147
+m_linkedin_l_clk_alpha1_beta0,0.10559431755364991
+m_trade_desk_l_imp_alpha1_beta1,0.0
+branch_prospect_visits,2.2352347719713954
+gqv_n_retire_gix,1.9458227896589384
+gqv_n_actra_gix,5.585596883204206
+trend,1.3312014186358685
+Intercept,641.2376046066031

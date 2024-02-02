@@ -1,0 +1,19 @@
+﻿variable_name,variable_activity_root,variable_description,variable_category,aggregation_type
+m_fb_n_clk,m_fb_n,facebook ads,Clicks,Mean
+m_fb_n_imp,m_fb_n,facebook ads,Impressions,Mean
+m_fb_n_sp,m_fb_n,facebook ads,Spend,Mean
+m_bing_l_clk,m_bing_l,bing ads,Clicks,Mean
+m_bing_l_imp,m_bing_l,bing ads,Impressions,Mean
+m_bing_l_sp,m_bing_l,bing ads,Spend,Mean
+m_google_n_clk,m_google_n,google search,Clicks,Mean
+m_google_n_imp,m_google_n,google search,Impressions,Mean
+m_google_n_sp,m_google_n,google search,Spend,Mean
+m_youtube_n_clk,m_youtube_n,youtube ads,Clicks,Mean
+m_youtube_n_imp,m_youtube_n,youtube ads,Impressions,Mean
+m_youtube_n_sp,m_youtube_n,youtube ads,Spend,Mean
+m_trade_desk_l_clk,m_trade_desk_l,trade_desk ads,Clicks,Mean
+m_trade_desk_l_imp,m_trade_desk_l,trade_desk ads,Impressions,Mean
+m_trade_desk_l_sp,m_trade_desk_l,trade_desk ads,Spend,Mean
+m_linkedin_l_clk,m_linkedin_l,linkedin ads,Clicks,Mean
+m_linkedin_l_imp,m_linkedin_l,linkedin ads,Impressions,Mean
+m_linkedin_l_sp,m_linkedin_l,linkedin ads,Spend,Mean
