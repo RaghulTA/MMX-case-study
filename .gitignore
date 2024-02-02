@@ -191,3 +191,7 @@ test.ipynb
 
 # inlcude the specific paths
 !src/ta_lib/_vendor/tigerml/core/reports/html/report_resources/*
+
+# Ignore Windows zone identifier files
+Thumbs.db
+*.Zone
